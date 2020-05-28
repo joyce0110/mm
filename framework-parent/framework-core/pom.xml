@@ -109,11 +109,11 @@
             <artifactId>easy-okhttp</artifactId>
             <version>1.1.0</version>
         </dependency>
-        <dependency>
+        <!--<dependency>
             <groupId>com.thoughtworks.xstream</groupId>
             <artifactId>xstream</artifactId>
             <version>1.4.10</version>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>org.ogce</groupId>
             <artifactId>xpp3</artifactId>
